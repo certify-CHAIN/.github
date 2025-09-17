@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../img/logo_CertifyChain.jpg" alt="CertifyChain Logo" width="300"/>
+  <img src="../img/logo_CertifyChain.jpg" alt="CertifyChain Logo" width="500"/>
   
   [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://certifi-chain.vercel.app/)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -97,7 +97,7 @@ Traditional academic certification systems face critical challenges:
 - **Verification**: ✅ Verified and deployed on Somnia Testnet
 
 > 🌐 **Network**: Somnia Testnet  
-> 🔍 **Explorer**: [View contracts on Somnia Explorer](https://explorer.somnia.network/)
+> 🔍 **Explorer**: [View contracts on Somnia Explorer](https://shannon-explorer.somnia.network/)
 
 ---
 
