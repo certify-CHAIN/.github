@@ -4,7 +4,7 @@
   [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://certifi-chain.vercel.app/)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
   [![Hackathon](https://img.shields.io/badge/Somnia-DeFi%20Hackathon-purple.svg)](https://dorahacks.io/hackathon/defi-mini-hackathon/detail)
-  [![Somnia Testnet](https://img.shields.io/badge/Deployed-Somnia%20Testnet-orange.svg)](https://explorer.somnia.network/)
+  [![Somnia Testnet](https://img.shields.io/badge/Deployed-Somnia%20Testnet-orange.svg)](https://shannon-explorer.somnia.network/)
   
   # 🎓 CertifyChain
   
@@ -423,7 +423,7 @@ npm run preview
 - � **Organization**: [CertifyChain GitHub](https://github.com/certify-CHAIN)
 
 ### **🔗 Blockchain Links**
-- 🌐 **Somnia Testnet Explorer**: [explorer.somnia.network](https://shannon-explorer.somnia.network/)
+- 🌐 **Somnia Testnet Explorer**: [shannon-explorer.somnia.network](https://shannon-explorer.somnia.network/)
 - � **Roles Contract**: [0x786E41e7a24C8B9031b91749F8f1A649457CC1BF](https://shannon-explorer.somnia.network/address/0x786E41e7a24C8B9031b91749F8f1A649457CC1BF)
 - 🎫 **ERC721 Contract**: [0x3942A2e611Cd2C8272Ae9C05A40001aF1903d1aD](https://shannon-explorer.somnia.network/address/0x3942A2e611Cd2C8272Ae9C05A40001aF1903d1aD)
 
