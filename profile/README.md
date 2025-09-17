@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../../img/logo_CertifyChain.jpg" alt="CertifyChain Logo" width="300"/>
+  <img src="../img/logo_CertifyChain.jpg" alt="CertifyChain Logo" width="300"/>
   
   [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://certifi-chain.vercel.app/)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
