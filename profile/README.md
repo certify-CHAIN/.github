@@ -423,14 +423,14 @@ npm run preview
 - � **Organization**: [CertifyChain GitHub](https://github.com/certify-CHAIN)
 
 ### **🔗 Blockchain Links**
-- 🌐 **Somnia Testnet Explorer**: [explorer.somnia.network](https://explorer.somnia.network/)
-- � **Roles Contract**: [0x786E41e7a24C8B9031b91749F8f1A649457CC1BF](https://explorer.somnia.network/address/0x786E41e7a24C8B9031b91749F8f1A649457CC1BF)
-- 🎫 **ERC721 Contract**: [0x3942A2e611Cd2C8272Ae9C05A40001aF1903d1aD](https://explorer.somnia.network/address/0x3942A2e611Cd2C8272Ae9C05A40001aF1903d1aD)
+- 🌐 **Somnia Testnet Explorer**: [explorer.somnia.network](https://shannon-explorer.somnia.network/)
+- � **Roles Contract**: [0x786E41e7a24C8B9031b91749F8f1A649457CC1BF](https://shannon-explorer.somnia.network/address/0x786E41e7a24C8B9031b91749F8f1A649457CC1BF)
+- 🎫 **ERC721 Contract**: [0x3942A2e611Cd2C8272Ae9C05A40001aF1903d1aD](https://shannon-explorer.somnia.network/address/0x3942A2e611Cd2C8272Ae9C05A40001aF1903d1aD)
 
 ### **📊 Project Documentation**
 - 🎯 **Hackathon**: [Somnia DeFi Mini Hackathon](https://dorahacks.io/hackathon/defi-mini-hackathon/detail)
-- 📋 **Project Profile**: [DoraHacks Submission](#)
-- 📹 **Demo Video**: [Watch Live Demo](#)
+- 📋 **Project Profile**: [DoraHacks Submission](https://dorahacks.io/buidl/32842)
+- 📹 **Demo Video**: [Watch Live Demo](https://www.youtube.com/)
 
 ### **🔧 Development Tools**
 - 💾 **IPFS Storage**: Pinata Cloud Service
