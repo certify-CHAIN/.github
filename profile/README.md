@@ -1,24 +1,10 @@
-<div align="center">
+﻿<div align="center">
   <img src="../img/logo_CertifyChain.jpg" alt="CertifyChain Logo" width="500"/>
   
   [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://certifi-chain.vercel.app/)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)]### **🎯 Advanced Frontend Features**
-- **Modern Landing Page**: Complete redesign with animated sections
-- **Certificate Verification URLs**: Public verification system
-- **Responsive Mobile Design**: Optimized for all device sizes
-- **Real-time Blockchain Integration**: Live contract state updates
-- **Professional UI Components**: Custom TailwindCSS design system
-- **Multi-wallet Support**: MetaMask and WalletConnect integration
-- **IPFS Content Management**: Decentralized file handling
-- **TypeScript Safety**: Full type coverage for enhanced development
-
-### 4. **Verification Process**LICENSE)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
   [![Hackathon](https://img.shields.io/badge/Somnia-DeFi%20Hackathon-purple.svg)](https://dorahacks.io/hackathon/defi-mini-hackathon/detail)
-  [![Somnia Testnet](http### **🚀 Live Application & Repositories**
-- 🌐 **Live DApp**: [CertifyChain Platform](https://certifi-chain.vercel.app/)
-- 📱 **Frontend Repository**: [Frontend-certify-CHAIN](https://github.com/certify-CHAIN/Frontend-certify-CHAIN)
-- ⚙️ **Backend Repository**: [Backend-Certfy-CHAIN](https://github.com/certify-CHAIN/Backend-Certfy-CHAIN)
-- 🔍 **Organization**: [CertifyChain GitHub](https://github.com/certify-CHAIN)mg.shields.io/badge/Deployed-Somnia%20Testnet-orange.svg)](https://shannon-explorer.somnia.network/)
+  [![Somnia Testnet](https://img.shields.io/badge/Deployed-Somnia%20Testnet-orange.svg)](https://shannon-explorer.somnia.network/)
   
   # 🎓 CertifyChain
   
@@ -26,7 +12,7 @@
   
   🎓 **Transforming education through blockchain-powered NFT certificates**
   
-  [🚀 Live Demo](https://certifi-chain.vercel.app/) | [� Frontend Repo](https://github.com/certify-CHAIN/Frontend-certify) | [⚙️ Backend Repo](https://github.com/certify-CHAIN/Backend-Certfy-CHAIN)
+  [🚀 Live Demo](https://certifi-chain.vercel.app/) | [📱 Frontend Repo](https://github.com/certify-CHAIN/Frontend-certify-CHAIN) | [⚙️ Backend Repo](https://github.com/certify-CHAIN/Backend-Certfy-CHAIN)
 </div>
 
 ---
@@ -52,97 +38,6 @@ Traditional academic certification systems face critical challenges:
 ✅ **Multi-language Support**: Complete English/Spanish interface  
 ✅ **Modern Landing Page**: Professional animated components  
 ✅ **Certificate Verification**: Public verification via unique URLs  
-
----
-
-## 🌐 Internationalization & User Experience
-
-### **Language Support**
-- 🇺🇸 **English**: Primary language with complete interface translation
-- 🇪🇸 **Spanish**: Full Spanish documentation and UI support
-- 🔄 **Translation Status**: 100% UI professionally translated
-
-### **Enhanced User Interface**
-- 📱 **Responsive Design**: Mobile-first approach with desktop enhancements
-- ✨ **Animated Components**: Dynamic visual effects and smooth transitions
-- 🎨 **Modern UI**: Professional landing page with multiple sections
-- 🎯 **Role-Based UX**: Customized interfaces for each user type
-
-### **New Frontend Components**
-- 🌟 **FeaturesSection**: Interactive platform capabilities showcase
-- 📊 **StatsSection**: Real-time platform statistics and metrics
-- 💬 **TestimonialsSection**: User success stories and feedback
-- 🏛️ **UniversityPartners**: Educational institution partnerships
-- ⌨️ **TypewriterText**: Engaging animated text effects
-
----
-
-## 🚀 Key Features
-
-### 🔐 **Role-Based Access Control**
-- **Admin**: Contract owner with full system control
-- **Director**: Authorized certificate issuers
-- **Student**: Certificate recipients and owners
-
-### 🎯 **Certificate Lifecycle Management**
-1. **Issuance**: Directors create certificates with custom templates
-2. **Storage**: Metadata and images stored on IPFS via Pinata
-3. **Minting**: Certificates minted as ERC-721 NFTs
-4. **Verification**: Instant blockchain-based authenticity checks
-5. **Ownership**: Students can import NFTs to their wallets
-
-### 🔄 **Seamless Integration**
-- MetaMask and WalletConnect support
-- Multi-chain compatibility (Ethereum ecosystem)
-- IPFS decentralized storage
-- QR code generation for quick verification
-
----
-
-## 🛠 Technology Stack
-
-### **Frontend**
-- ⚛️ **React 19** - Latest React features with concurrent rendering
-- 🏃‍♂️ **Vite** - Ultra-fast build tool with HMR
-- 📝 **TypeScript** - Type-safe development with enhanced IDE support
-- 🎨 **TailwindCSS** - Utility-first CSS framework
-- 🌈 **Wagmi** - React hooks for Ethereum
-- 🔄 **TanStack Query** - Server state management
-- 📁 **HTML2Canvas** - Certificate image generation
-- 🌐 **WalletConnect** - Multi-wallet support
-- ⚡ **Viem** - TypeScript-first Ethereum library
-
-### **Blockchain**
-- 🔗 **Somnia Testnet** - High-performance EVM-compatible chain
-- 📜 **Solidity** - Smart contract development
-- 🎫 **ERC-721** - NFT standard for certificates
-- 🔑 **OpenZeppelin** - Security-audited contracts
-- ⚡ **Hardhat** - Development framework
-
-### **Decentralized Storage & Infrastructure**
-- 🌐 **IPFS** - Decentralized file storage (primary storage layer)
-- 📌 **Pinata** - IPFS pinning service for reliability
-- 🔗 **Distributed Network** - No single point of failure
-- ☁️ **Vercel** - Decentralized edge deployment
-- 🦊 **MetaMask** - Decentralized wallet integration
-- 🌍 **Global CDN** - Worldwide content distribution
-
-### **Smart Contracts on Somnia Testnet**
-
-#### 🔐 **Roles Contract**
-- **Address**: `0x786E41e7a24C8B9031b91749F8f1A649457CC1BF`
-- **Purpose**: Role-based access control management
-- **Functions**: Admin, Director, and Student role assignments
-- **Verification**: ✅ Verified and deployed on Somnia Testnet
-
-#### 🎫 **ERC721 Certificate Contract**
-- **Address**: `0x3942A2e611Cd2C8272Ae9C05A40001aF1903d1aD`
-- **Purpose**: NFT certificate minting and management
-- **Standard**: ERC-721 compliant token
-- **Verification**: ✅ Verified and deployed on Somnia Testnet
-
-> 🌐 **Network**: Somnia Testnet  
-> 🔍 **Explorer**: [View contracts on Somnia Explorer](https://shannon-explorer.somnia.network/)
 
 ---
 
@@ -219,6 +114,146 @@ sequenceDiagram
     I-->>UI: Certificate Data
     UI-->>S: Display Certificates
 ```
+
+---
+
+## 🛠 Technology Stack
+
+### **Frontend**
+- ⚛️ **React 19** - Latest React features with concurrent rendering
+- 🏃‍♂️ **Vite** - Ultra-fast build tool with HMR
+- 📝 **TypeScript** - Type-safe development with enhanced IDE support
+- 🎨 **TailwindCSS** - Utility-first CSS framework
+- 🌈 **Wagmi** - React hooks for Ethereum
+- 🔄 **TanStack Query** - Server state management
+- 📁 **HTML2Canvas** - Certificate image generation
+- 🌐 **WalletConnect** - Multi-wallet support
+- ⚡ **Viem** - TypeScript-first Ethereum library
+
+### **Blockchain**
+- 🔗 **Somnia Testnet** - High-performance EVM-compatible chain
+- 📜 **Solidity** - Smart contract development
+- 🎫 **ERC-721** - NFT standard for certificates
+- 🔑 **OpenZeppelin** - Security-audited contracts
+- ⚡ **Hardhat** - Development framework
+
+### **Decentralized Storage & Infrastructure**
+- 🌐 **IPFS** - Decentralized file storage (primary storage layer)
+- 📌 **Pinata** - IPFS pinning service for reliability
+- 🔗 **Distributed Network** - No single point of failure
+- ☁️ **Vercel** - Decentralized edge deployment
+- 🦊 **MetaMask** - Decentralized wallet integration
+- 🌍 **Global CDN** - Worldwide content distribution
+
+### **Smart Contracts on Somnia Testnet**
+
+#### 🔐 **Roles Contract**
+- **Address**: `0x786E41e7a24C8B9031b91749F8f1A649457CC1BF`
+- **Purpose**: Role-based access control management
+- **Functions**: Admin, Director, and Student role assignments
+- **Verification**: ✅ Verified and deployed on Somnia Testnet
+
+#### 🎫 **ERC721 Certificate Contract**
+- **Address**: `0x3942A2e611Cd2C8272Ae9C05A40001aF1903d1aD`
+- **Purpose**: NFT certificate minting and management
+- **Standard**: ERC-721 compliant token
+- **Verification**: ✅ Verified and deployed on Somnia Testnet
+
+> 🌐 **Network**: Somnia Testnet  
+> 🔍 **Explorer**: [View contracts on Somnia Explorer](https://shannon-explorer.somnia.network/)
+
+---
+
+## 🚀 Key Features
+
+### 🔐 **Role-Based Access Control**
+- **Admin**: Contract owner with full system control
+- **Director**: Authorized certificate issuers
+- **Student**: Certificate recipients and owners
+
+### 🎯 **Certificate Lifecycle Management**
+1. **Issuance**: Directors create certificates with custom templates
+2. **Storage**: Metadata and images stored on IPFS via Pinata
+3. **Minting**: Certificates minted as ERC-721 NFTs
+4. **Verification**: Instant blockchain-based authenticity checks
+5. **Ownership**: Students can import NFTs to their wallets
+
+### 🔄 **Seamless Integration**
+- MetaMask and WalletConnect support
+- Multi-chain compatibility (Ethereum ecosystem)
+- IPFS decentralized storage
+- QR code generation for quick verification
+
+---
+
+## 🌐 Internationalization & User Experience
+
+### **Language Support**
+- 🇺🇸 **English**: Primary language with complete interface translation
+- 🇪🇸 **Spanish**: Full Spanish documentation and UI support
+- 🔄 **Translation Status**: 100% UI professionally translated
+
+### **Enhanced User Interface**
+- 📱 **Responsive Design**: Mobile-first approach with desktop enhancements
+- ✨ **Animated Components**: Dynamic visual effects and smooth transitions
+- 🎨 **Modern UI**: Professional landing page with multiple sections
+- 🎯 **Role-Based UX**: Customized interfaces for each user type
+
+### **New Frontend Components**
+- 🌟 **FeaturesSection**: Interactive platform capabilities showcase
+- 📊 **StatsSection**: Real-time platform statistics and metrics
+- 💬 **TestimonialsSection**: User success stories and feedback
+- 🏛️ **UniversityPartners**: Educational institution partnerships
+- ⌨️ **TypewriterText**: Engaging animated text effects
+
+---
+
+## 🏗 Project Architecture
+
+### **Frontend**
+- ⚛️ **React 19** - Latest React features with concurrent rendering
+- 🏃‍♂️ **Vite** - Ultra-fast build tool with HMR
+- 📝 **TypeScript** - Type-safe development with enhanced IDE support
+- 🎨 **TailwindCSS** - Utility-first CSS framework
+- 🌈 **Wagmi** - React hooks for Ethereum
+- 🔄 **TanStack Query** - Server state management
+- 📁 **HTML2Canvas** - Certificate image generation
+- 🌐 **WalletConnect** - Multi-wallet support
+- ⚡ **Viem** - TypeScript-first Ethereum library
+
+### **Blockchain**
+- 🔗 **Somnia Testnet** - High-performance EVM-compatible chain
+- 📜 **Solidity** - Smart contract development
+- 🎫 **ERC-721** - NFT standard for certificates
+- 🔑 **OpenZeppelin** - Security-audited contracts
+- ⚡ **Hardhat** - Development framework
+
+### **Decentralized Storage & Infrastructure**
+- 🌐 **IPFS** - Decentralized file storage (primary storage layer)
+- 📌 **Pinata** - IPFS pinning service for reliability
+- 🔗 **Distributed Network** - No single point of failure
+- ☁️ **Vercel** - Decentralized edge deployment
+- 🦊 **MetaMask** - Decentralized wallet integration
+- 🌍 **Global CDN** - Worldwide content distribution
+
+### **Smart Contracts on Somnia Testnet**
+
+#### 🔐 **Roles Contract**
+- **Address**: `0x786E41e7a24C8B9031b91749F8f1A649457CC1BF`
+- **Purpose**: Role-based access control management
+- **Functions**: Admin, Director, and Student role assignments
+- **Verification**: ✅ Verified and deployed on Somnia Testnet
+
+#### 🎫 **ERC721 Certificate Contract**
+- **Address**: `0x3942A2e611Cd2C8272Ae9C05A40001aF1903d1aD`
+- **Purpose**: NFT certificate minting and management
+- **Standard**: ERC-721 compliant token
+- **Verification**: ✅ Verified and deployed on Somnia Testnet
+
+> 🌐 **Network**: Somnia Testnet  
+> 🔍 **Explorer**: [View contracts on Somnia Explorer](https://shannon-explorer.somnia.network/)
+
+---
 
 ## 🏗 Project Architecture
 
@@ -501,7 +536,8 @@ npm run preview
 ### **📊 Project Documentation**
 - 🎯 **Hackathon**: [Somnia DeFi Mini Hackathon](https://dorahacks.io/hackathon/defi-mini-hackathon/detail)
 - 📋 **Project Profile**: [DoraHacks Submission](https://dorahacks.io/buidl/32842)
-- 📹 **Demo Video**: [Watch Live Demo](https://www.youtube.com/)
+- 📄 **Complete Documentation**: [Technical Documentation on Notion](https://www.notion.so/asd-273d31057557804a9b47ccbad650991a?source=copy_link)
+- 🎥 **Demo Video**: [Watch Live Demo](https://www.youtube.com/)
 
 ### **🔧 Development Tools**
 - 💾 **IPFS Storage**: Pinata Cloud Service
@@ -567,25 +603,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team CertifyChain
 
-**🏆 Somnia DeFi Mini Hackathon Team**
+**🏆 Somnia DeFi Mini Hackathon Team - 3 Members**
 
-### **Development Team**
-- 🧑‍💻 **Lead Blockchain Developer**: Smart contract architecture & deployment
-- 🎨 **Frontend Developer**: React/TypeScript implementation & UI/UX
-- 🔧 **DevOps Engineer**: Infrastructure & deployment automation
-- 🔐 **Security Auditor**: Smart contract security & optimization
+### **Core Development Team (3 Members)**
+- 🧑‍💻 **Lead Developer**: Blockchain architecture, smart contracts & full-stack development
+- 🎨 **Frontend Specialist**: React/TypeScript implementation, UI/UX design & user experience
+- 🔧 **DevOps & Security Engineer**: Infrastructure, deployment automation & smart contract security
 
-### **Project Roles**
-- 🎯 **Project Lead**: Strategic direction & hackathon coordination
-- 📋 **Technical Writer**: Documentation & whitepaper creation
-- 🔬 **Researcher**: DeFi integration & educational impact analysis
-- � **Community Manager**: Ecosystem development & partnerships
+### **Team Responsibilities**
+- 🎯 **Project Leadership**: Strategic direction & hackathon coordination
+- 📋 **Technical Documentation**: Comprehensive README & technical documentation
+- 🔬 **Research & Innovation**: DeFi integration & educational impact analysis
+- 🚀 **Full-Stack Development**: Complete implementation from contracts to UI
 
 ### **Hackathon Achievements**
-- ✅ **Full Stack Implementation**: Complete DApp with smart contracts
-- ✅ **Somnia Integration**: Successfully deployed on Somnia Testnet
-- ✅ **User Experience**: Intuitive role-based interface design
-- ✅ **Innovation**: Novel approach to educational credential management
+- ✅ **Complete DApp**: Full-stack implementation with smart contracts
+- ✅ **Somnia Integration**: Successfully deployed and verified on Somnia Testnet
+- ✅ **Professional UI/UX**: Intuitive role-based interface with modern design
+- ✅ **Technical Innovation**: Novel approach to decentralized educational credentials
+- ✅ **Documentation Excellence**: Comprehensive technical documentation and architecture diagrams
 
 ---
 
