@@ -2,9 +2,23 @@
   <img src="../img/logo_CertifyChain.jpg" alt="CertifyChain Logo" width="500"/>
   
   [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://certifi-chain.vercel.app/)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)]### **🎯 Advanced Frontend Features**
+- **Modern Landing Page**: Complete redesign with animated sections
+- **Certificate Verification URLs**: Public verification system
+- **Responsive Mobile Design**: Optimized for all device sizes
+- **Real-time Blockchain Integration**: Live contract state updates
+- **Professional UI Components**: Custom TailwindCSS design system
+- **Multi-wallet Support**: MetaMask and WalletConnect integration
+- **IPFS Content Management**: Decentralized file handling
+- **TypeScript Safety**: Full type coverage for enhanced development
+
+### 4. **Verification Process**LICENSE)
   [![Hackathon](https://img.shields.io/badge/Somnia-DeFi%20Hackathon-purple.svg)](https://dorahacks.io/hackathon/defi-mini-hackathon/detail)
-  [![Somnia Testnet](https://img.shields.io/badge/Deployed-Somnia%20Testnet-orange.svg)](https://shannon-explorer.somnia.network/)
+  [![Somnia Testnet](http### **🚀 Live Application & Repositories**
+- 🌐 **Live DApp**: [CertifyChain Platform](https://certifi-chain.vercel.app/)
+- 📱 **Frontend Repository**: [Frontend-certify-CHAIN](https://github.com/certify-CHAIN/Frontend-certify-CHAIN)
+- ⚙️ **Backend Repository**: [Backend-Certfy-CHAIN](https://github.com/certify-CHAIN/Backend-Certfy-CHAIN)
+- 🔍 **Organization**: [CertifyChain GitHub](https://github.com/certify-CHAIN)mg.shields.io/badge/Deployed-Somnia%20Testnet-orange.svg)](https://shannon-explorer.somnia.network/)
   
   # 🎓 CertifyChain
   
@@ -35,6 +49,31 @@ Traditional academic certification systems face critical challenges:
 ✅ **Global Accessibility**: Borderless credential verification  
 ✅ **Cost Effective**: Reduced verification costs by 90%  
 ✅ **Tamper Proof**: Cryptographically secured documents  
+✅ **Multi-language Support**: Complete English/Spanish interface  
+✅ **Modern Landing Page**: Professional animated components  
+✅ **Certificate Verification**: Public verification via unique URLs  
+
+---
+
+## 🌐 Internationalization & User Experience
+
+### **Language Support**
+- 🇺🇸 **English**: Primary language with complete interface translation
+- 🇪🇸 **Spanish**: Full Spanish documentation and UI support
+- 🔄 **Translation Status**: 100% UI professionally translated
+
+### **Enhanced User Interface**
+- 📱 **Responsive Design**: Mobile-first approach with desktop enhancements
+- ✨ **Animated Components**: Dynamic visual effects and smooth transitions
+- 🎨 **Modern UI**: Professional landing page with multiple sections
+- 🎯 **Role-Based UX**: Customized interfaces for each user type
+
+### **New Frontend Components**
+- 🌟 **FeaturesSection**: Interactive platform capabilities showcase
+- 📊 **StatsSection**: Real-time platform statistics and metrics
+- 💬 **TestimonialsSection**: User success stories and feedback
+- 🏛️ **UniversityPartners**: Educational institution partnerships
+- ⌨️ **TypewriterText**: Engaging animated text effects
 
 ---
 
@@ -63,11 +102,15 @@ Traditional academic certification systems face critical challenges:
 ## 🛠 Technology Stack
 
 ### **Frontend**
-- ⚛️ **React 19** - Modern UI framework
-- 🏃‍♂️ **Vite** - Lightning-fast build tool
-- 📝 **TypeScript** - Type-safe development
-- 🎨 **TailwindCSS** - Utility-first styling
-- 🌈 **Wagmi** - Web3 React hooks
+- ⚛️ **React 19** - Latest React features with concurrent rendering
+- 🏃‍♂️ **Vite** - Ultra-fast build tool with HMR
+- 📝 **TypeScript** - Type-safe development with enhanced IDE support
+- 🎨 **TailwindCSS** - Utility-first CSS framework
+- 🌈 **Wagmi** - React hooks for Ethereum
+- 🔄 **TanStack Query** - Server state management
+- 📁 **HTML2Canvas** - Certificate image generation
+- 🌐 **WalletConnect** - Multi-wallet support
+- ⚡ **Viem** - TypeScript-first Ethereum library
 
 ### **Blockchain**
 - 🔗 **Somnia Testnet** - High-performance EVM-compatible chain
@@ -76,11 +119,13 @@ Traditional academic certification systems face critical challenges:
 - 🔑 **OpenZeppelin** - Security-audited contracts
 - ⚡ **Hardhat** - Development framework
 
-### **Storage & Infrastructure**
-- 🌐 **IPFS** - Decentralized file storage
-- 📌 **Pinata** - IPFS pinning service
-- ☁️ **Vercel** - Deployment platform
-- 🦊 **MetaMask** - Wallet integration
+### **Decentralized Storage & Infrastructure**
+- 🌐 **IPFS** - Decentralized file storage (primary storage layer)
+- 📌 **Pinata** - IPFS pinning service for reliability
+- 🔗 **Distributed Network** - No single point of failure
+- ☁️ **Vercel** - Decentralized edge deployment
+- 🦊 **MetaMask** - Decentralized wallet integration
+- 🌍 **Global CDN** - Worldwide content distribution
 
 ### **Smart Contracts on Somnia Testnet**
 
@@ -114,8 +159,8 @@ graph TB
     end
     
     subgraph "Blockchain Layer - Somnia Testnet"
-        ROLES[🔐 Roles Contract<br/>0x786E41e7a24C8B9031b91749F8f1A649457CC1BF]
-        ERC721[🎫 ERC721 Contract<br/>0x3942A2e611Cd2C8272Ae9C05A40001aF1903d1aD]
+        ROLES[🔐 CertifyRoles Contract<br/>0xDaC5fd597801Fe86422fE64D714F9F6452424927]
+        ERC721[🎫 CertiChainToken Contract<br/>0x86Ae08076DBD7c1227cBD3d8743062C3bBB91F54]
     end
     
     subgraph "Storage Layer"
@@ -180,10 +225,10 @@ sequenceDiagram
 ### **Repository Structure**
 
 #### 📁 **Frontend Repository**
-🔗 **Repository**: [Frontend-certify](https://github.com/certify-CHAIN/Frontend-certify)
+🔗 **Repository**: [Frontend-certify-CHAIN](https://github.com/certify-CHAIN/Frontend-certify-CHAIN)
 
 ```
-Frontend-certify/
+Frontend-certify-CHAIN/
 ├── 📁 public/                   # Static assets
 ├── 📁 src/
 │   ├── 📁 assets/              # Images and resources
@@ -192,10 +237,19 @@ Frontend-certify/
 │   │   └── ⚙️ somnia.ts        # Somnia testnet config
 │   ├── 📁 components/          # React components
 │   │   ├── 👑 AdminPanel.tsx   # Admin role management
-│   │   ├── 🎓 DirectorPanel.tsx # Certificate issuance
-│   │   ├── 👨‍🎓 StudentPanel.tsx  # Certificate viewing
+│   │   ├── ✨ AnimatedBackground.tsx # Dynamic visual effects
+│   │   ├── � BenefitsSection.tsx # Landing page benefits
+│   │   ├── 📞 CTASection.tsx   # Call-to-action section
+│   │   ├── �🎓 DirectorPanel.tsx # Certificate issuance
+│   │   ├── 🌟 FeaturesSection.tsx # Platform features
+│   │   ├── 🦶 Footer.tsx       # Site footer
+│   │   ├── 🔄 HowItWorksSection.tsx # Process explanation
 │   │   ├── 🎯 RoleSelector.tsx  # Role detection
-│   │   └── ✨ AnimatedBackground.tsx
+│   │   ├── � StatsSection.tsx  # Platform statistics
+│   │   ├── �👨‍🎓 StudentPanel.tsx  # Certificate viewing
+│   │   ├── 💬 TestimonialsSection.tsx # User testimonials
+│   │   ├── ⌨️ TypewriterText.tsx # Animated text effects
+│   │   └── 🏛️ UniversityPartners.tsx # Partner institutions
 │   ├── 📁 contracts/           # Smart contract interfaces
 │   │   ├── 📄 RolesContract.ts  # Roles contract ABI
 │   │   ├── 📄 ERC721Contract.ts # ERC721 contract ABI
@@ -248,11 +302,22 @@ graph TD
 6. **NFT certificate** minted to student's address
 7. **Transaction hash** generated for verification
 
+### 🎯 **Advanced Frontend Features**
+- **Modern Landing Page**: Complete redesign with animated sections
+- **Certificate Verification URLs**: Public verification system
+- **Responsive Mobile Design**: Optimized for all device sizes
+- **Real-time Blockchain Integration**: Live contract state updates
+- **Professional UI Components**: Custom TailwindCSS design system
+- **Multi-wallet Support**: MetaMask and WalletConnect integration
+- **IPFS Content Management**: Decentralized file handling
+- **TypeScript Safety**: Full type coverage for enhanced development
+
 ### 3. **Verification Process**
 - Students view certificates in their dashboard
 - QR codes provide instant verification links
-- Certificates can be verified on Etherscan
+- Certificates can be verified on Somnia Explorer
 - NFTs can be imported to any compatible wallet
+- Public verification via unique URLs
 
 ---
 
@@ -268,8 +333,8 @@ graph TD
 
 ```bash
 # Clone the frontend repository
-git clone https://github.com/certify-CHAIN/Frontend-certify.git
-cd Frontend-certify
+git clone https://github.com/certify-CHAIN/Frontend-certify-CHAIN.git
+cd Frontend-certify-CHAIN
 
 # Install dependencies
 npm install
@@ -298,10 +363,16 @@ npx hardhat run scripts/deploy.js --network somnia
 ### Environment Setup
 Create a `.env.local` file in frontend:
 ```env
+# Pinata IPFS Configuration (Required)
 VITE_PINATA_JWT=your_pinata_jwt_token
 VITE_PINATA_GATEWAY=your_pinata_gateway_url
-VITE_ROLES_CONTRACT=0x786E41e7a24C8B9031b91749F8f1A649457CC1BF
-VITE_ERC721_CONTRACT=0x3942A2e611Cd2C8272Ae9C05A40001aF1903d1aD
+
+# Smart Contract Addresses
+VITE_CERTIFY_ROLES_CONTRACT=0xDaC5fd597801Fe86422fE64D714F9F6452424927
+VITE_CERTI_CHAIN_TOKEN_CONTRACT=0x86Ae08076DBD7c1227cBD3d8743062C3bBB91F54
+
+# Optional: Custom RPC endpoints
+VITE_ETHEREUM_RPC_URL=your_custom_rpc_url
 ```
 
 ### Network Configuration
@@ -470,7 +541,7 @@ We welcome contributions to CertifyChain! Please read our contributing guideline
 
 ### **Development Setup**
 1. Fork the repositories
-   - [Frontend-certify](https://github.com/certify-CHAIN/Frontend-certify)
+   - [Frontend-certify-CHAIN](https://github.com/certify-CHAIN/Frontend-certify-CHAIN)
    - [Backend-Certfy-CHAIN](https://github.com/certify-CHAIN/Backend-Certfy-CHAIN)
 2. Create feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit changes (`git commit -m 'Add amazing feature'`)
